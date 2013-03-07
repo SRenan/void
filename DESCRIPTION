@@ -1,0 +1,8 @@
+Package: speedRead
+Title: Read fasteR
+Version: 1.1
+Authors: Renan Sauteraud
+Maintainer: Renan Sauteraud
+Description: Reads text really fast and forget it instantly
+Depends: R(>= 2.15), grid
+License: GPL (>= 2)
