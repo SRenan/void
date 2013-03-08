@@ -1,8 +1,0 @@
-First line of the text. And then there is garbage:
-adgfgfsdg sgfd gfsdgfsdgsfdg s gs
-empty_line
-
-sdfhgfhgfh sgh gfhfdghsfgdgdg hsghspace+newLine 
-sfdhgsghsf
-safdhsfghfgh sdfhfhsfdh newLine+space
-  This is the last word.
