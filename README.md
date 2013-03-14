@@ -8,3 +8,9 @@ To add download option:
     <a href="https://github.com/SRenan/void/zipball/master" class="download-button zip"><span>Download</span></a>
     <a href="https://github.com/SRenan/void/tarball/master" class="download-button tar"><span>Download</span></a>
     https://github.com/user/repo/tarORzipball/branch
+
+##speedReader
+
+    txt<-parseText(file)
+    spr(txt, wpm=300, wpi=2)
+
